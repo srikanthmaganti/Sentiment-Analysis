@@ -12,6 +12,7 @@ This folder consists of ipynb file and saved weights.txt
 3.Trained the model,built an Inference model and predicting sentiment of the given sentences
 
 -----------------------------------------Sentiment Analysis using TensorFlow------------------------------------
+
 This folder consists of 2 ipynb files
 
 Sentiment Analysis using Recurrent Neural Networks and CNN's
