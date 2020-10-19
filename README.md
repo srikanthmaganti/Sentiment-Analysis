@@ -1,7 +1,7 @@
 # Sentiment-Analysis
 This repository mainly consists of three different folders working on same dataset but in different environments
 
-##Sentiment Analysis using Pytorch
+## Sentiment Analysis using Pytorch
 
 This folder consists of ipynb file and saved weights.txt
 
@@ -11,7 +11,7 @@ This folder consists of ipynb file and saved weights.txt
 
 3.Trained the model,built an Inference model and predicting sentiment of the given sentences
 
-##Sentiment Analysis using TensorFlow
+## Sentiment Analysis using TensorFlow
 
 This folder consists of 2 ipynb files
 
@@ -23,7 +23,7 @@ Sentiment Analysis using Recurrent Neural Networks and CNN's
 
 3.While working with CNN's, I have acheived an accuracy of 82% 
 
-##Sentiment Analysis in SageMaker
+## Sentiment Analysis in SageMaker
 
 This folder consists of only 1 ipynb file
 
