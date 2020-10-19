@@ -1,5 +1,5 @@
 # Sentiment-Analysis
-This repository mainly consists of three different folders working on same dataset but in different environments
+The code folder mainly consists of three different folders working on same dataset but in different environments
 
 ## Sentiment Analysis using PyTorch
 
