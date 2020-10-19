@@ -1,7 +1,7 @@
 # Sentiment-Analysis
 This repository mainly consists of three different folders working on same dataset but in different environments
 
------------------------------------------Sentiment Analysis using Pytorch--------------------------------------
+##Sentiment Analysis using Pytorch
 
 This folder consists of ipynb file and saved weights.txt
 
@@ -11,7 +11,7 @@ This folder consists of ipynb file and saved weights.txt
 
 3.Trained the model,built an Inference model and predicting sentiment of the given sentences
 
------------------------------------------Sentiment Analysis using TensorFlow------------------------------------
+##Sentiment Analysis using TensorFlow
 
 This folder consists of 2 ipynb files
 
@@ -23,10 +23,12 @@ Sentiment Analysis using Recurrent Neural Networks and CNN's
 
 3.While working with CNN's, I have acheived an accuracy of 82% 
 
-----------------------------------------Sentiment Analysis in SageMaker---------------------------------------
+##Sentiment Analysis in SageMaker
 
-1. After all the model building is done, I have deployed the model with PyTorch in production environment
+This folder consists of only 1 ipynb file
+
+1.After all the model building is done, I have deployed the champion model built with PyTorch framework in production environment
 
 2.The End point of model inference which was deployed is given in the Lambda function for internal access
 
-3.Built a UI website for users whcich it goes to lambda function and from lambda function to End point where model inference is residing and computation is done over there and the result is sent back to UI 
+3.Built a UI website for users which it goes to lambda function and from lambda function to End point where model inference is residing and computation is done over there and the result is sent back to UI 
