@@ -23,7 +23,7 @@ Sentiment Analysis using Recurrent Neural Networks and CNN's
 
 3.While working with CNN's, I have acheived an accuracy of 82% 
 
-----------------------------------------Sentiment Analysis in SageMaker------------------------------------------
+----------------------------------------Sentiment Analysis in SageMaker---------------------------------------
 
 1. After all the model building is done, I have deployed the model with PyTorch in production environment
 
