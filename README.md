@@ -1,5 +1,5 @@
 # Sentiment-Analysis
-The code folder mainly consists of three different folders working on same dataset but in different environments
+The folder named code mainly consists of three different folders working on same dataset but in different environments
 
 ## Sentiment Analysis using PyTorch
 
