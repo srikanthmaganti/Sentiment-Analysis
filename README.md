@@ -32,7 +32,7 @@ This folder consists of only 1 ipynb file
 2. The End point of model inference which was deployed is given in the Lambda function for internal access
 
 3. Built a UI website for users which it goes to lambda function and from lambda function to End point where model inference is residing and computation is done over there and the result is sent back to UI 
-
+![alt text](https://github.com/srikanthmaganti/Sentiment-Analysis/tree/master/Graph-plots/Capture.png)
 ### Metrics Evaluated
 1. F1-Score: 0.768
 2. Validation Accuracy: 83.8
