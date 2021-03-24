@@ -15,7 +15,7 @@ This folder consists of ipynb file and saved weights.txt
 
 This folder consists of 2 ipynb files
 
-Sentiment Analysis using Recurrent Neural Networks and CNN's
+Sentiment Analysis using Recurrent Neural Networks and CNN's.
 
 1. Preprocessed the raw text data of movie reviews and converting them into word2vec form GloVe word embeddings
 
